@@ -1,5 +1,6 @@
 # primeiro teste!
-primeiro repositorio 
+primeiro repositório 
  
  primeira aula com a criação de repositório
  
+diretamente do site
