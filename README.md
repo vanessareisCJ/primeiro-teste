@@ -1,5 +1,5 @@
 # primeiro teste!
-primeiro repositório 
+primeiro repositorio 
  
  primeira aula com a criação de repositório
  
