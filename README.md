@@ -1,2 +1,5 @@
-# primeiro teste
-primeiro repositorio teste
+# primeiro teste!
+primeiro repositorio 
+ 
+ primeira aula com a criação de repositório
+ 
